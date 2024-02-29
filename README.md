@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
@@ -50,7 +49,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/SwadhinSwain">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SwadhinSwain&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivek9patel&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwadhinSwain&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -62,4 +61,3 @@ Here are some ideas to get you started:
 <a href="mailto:swadhinranjanswain@gmail.com"><img src="https://img.shields.io/badge/-swadhinranjanswain@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/RanjanSwadhin"><img src="https://img.shields.io/badge/-@swadhinswain-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
