@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Swadhin Ranjan Swain</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 	
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
-</p>
 
 - 🌱 I’m currently learning about **MERN Stack**
 
