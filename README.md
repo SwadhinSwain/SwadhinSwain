@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/swadhin-swain-3a533a223/"><img src="https://img.shields.io/badge/SwadhinSwain-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/swadhin-swain"><img src="https://img.shields.io/badge/SwadhinSwain-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:swadhinranjanswain@gmail.com"><img src="https://img.shields.io/badge/swadhinranjanswain@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://twitter.com/RanjanSwadhin"><img src="https://img.shields.io/badge/SwadhinSwain-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
