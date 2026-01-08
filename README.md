@@ -36,9 +36,12 @@ Here are some ideas to get you started:
 - 🧮 SQL Queries & Database Design  
 - 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - 📑 Excel (Advanced formulas, Pivot Tables)  
-- 📈 Power BI & Tableau 
+- 📈 Power BI & Tableau
 
-- 📫 How to reach me **swadhin.io@outlook.com**
+---
+
+### 📫 How to Reach Me
+- 📧 Email: **swadhin.io@outlook.com**
 
 
 	
