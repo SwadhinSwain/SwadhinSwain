@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/SwadhinSwain/SwadhinSwain/blob/main/Github%20Banner.png)
+![logo](https://raw.githubusercontent.com/SwadhinSwain/SwadhinSwain/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Swadhin Ranjan Swain</h1>
 <h3 align="center">A passionate Software Developer</h3>
