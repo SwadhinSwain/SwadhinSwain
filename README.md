@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![logo](https://raw.githubusercontent.com/SwadhinSwain/SwadhinSwain/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Swadhin Ranjan Swain</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SwadhinSwain&color=blueviolet&style=flat">
