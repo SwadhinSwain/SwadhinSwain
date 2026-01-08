@@ -24,11 +24,21 @@ Here are some ideas to get you started:
 
 	
 
-- 🌱 I’m currently learning about **MERN Stack**
+### 🚀 What I’m Currently Doing
+- 🌱 Learning **Advanced SQL, Python for Data Analysis & Statistics**
+- 📈 Exploring **Power BI & Tableau Dashboards**
+- 🧠 Improving skills in **Data Storytelling & Business Insights**
 
-- 💬 Ask me about **Javascript** & **CSS**
+---
 
-- 📫 How to reach me **swadhinranjanswain@gmail.com**
+### 💬 Ask Me About
+- 📊 Data Analysis & Reporting  
+- 🧮 SQL Queries & Database Design  
+- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- 📑 Excel (Advanced formulas, Pivot Tables)  
+- 📈 Power BI & Tableau 
+
+- 📫 How to reach me **swadhin.io@outlook.com**
 
 
 	
